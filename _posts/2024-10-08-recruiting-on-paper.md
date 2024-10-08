@@ -47,7 +47,7 @@ City continue to struggle to break down structured defences (not to be confused 
 
 So what manifests?  A lot of stick for Sinclair Armstrong it seems!
 
-![Sinclair Armstrong](assets/img/posts/armstrong.png)
+<a id='8Urt39_TTmtOgVRVfmu-_A' class='gie-single' href='http://www.gettyimages.com/detail/2177107151' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'8Urt39_TTmtOgVRVfmu-_A',sig:'RkzdnidzRzzAl2NqFN__yPFNEygAvWl65kAQ0NE0Ag0=',w:'594px',h:'401px',items:'2177107151',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
 Fair or unfair?
 
@@ -61,7 +61,7 @@ What about City’s other striker signing, Mayulu?
 
 Another “big” 9, but very different to Armstrong.  I watched a fair bit of video of him when Sky Austria first broke the news that City were signing him.  He’s not had as much opportunity as Armstrong, but it is clear he is different type of striker to Sinclair.
 
-![Fally Mayulu](assets/img/posts/fally.png)
+<a id='hpF9VJXRQUhgzupiHQMBTQ' class='gie-single' href='http://www.gettyimages.com/detail/2169611026' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'hpF9VJXRQUhgzupiHQMBTQ',sig:'wxhNn6kG08wIeTKWy4hIx1hSm1-F-T4adREMKwv0lJM=',w:'447px',h:'594px',items:'2169611026',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
 He’s much happier getting ball into him from chest-down, likes to lay-off first-time off of his first-touch, or roll into space, but isn’t gonna “hide it” whilst he waits for the rest of the attack to join him.  A bit like Patrick Bamford in some respects.  Looks genuinely two-footed and gets into his stride pretty quickly.  He looks as if he needs players close to him to run onto his lay-offs, otherwise he can become isolated.  Noticeable in preseason that he looked much happier when Wells played 10 behind / alongside him, than Stokes.  Nahki makes very different runs to Stokes (that’s the experienced striker in him) and now that Twine is onboard and playing 10, rather than an inverted left-winger, different runs to Twine too.  Twine doesn’t make third-man runs like Wells does.
 
@@ -71,7 +71,7 @@ So, two strikers signed, both different, both fitting the recruitment brief in d
 
 Is the answer to play both of them?  Gary Owers, BBC Radio Bristol pundit and ex-City midfielder thinks so, or at least thinks is a good option to try.  It is certainly an option most fans would like to see also, not least with the monotony of like-for-like subs each game, ie striker off / striker on.  I see merits in Wells being the third in a “perm two from three” option.  His clever movement and understanding of how to play as a pair, together with his ability to finish might be the beneficiary of the other two’s hard work.  Wells would play the partner role with either very differently to how Armstrong and Mayulu would play together.
 
-![Nahki Wells](assets/img/posts/wells.png)
+<a id='EmVwe2iVSIRaY4I0jfLqew' class='gie-single' href='http://www.gettyimages.com/detail/1963460390' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'EmVwe2iVSIRaY4I0jfLqew',sig:'PrjrGfCu3z63kcvt0fPiU_TXL7sYz3kB_RG9xEdOxGA=',w:'594px',h:'396px',items:'1963460390',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
 The current “partner” option is Twine.  Playing a 10 like Twine, who wants to find pockets in between the opposition defence and midfield, rather than be a goal-threat getting on the end of Armstrong or Mayulu’s donkey-work, puts question marks on the system and the cohesiveness of certain player combinations within the overall team.  And therefore question marks on Recruitment too.  Especially when you’ve spent several million across the summer acquiring these players.
 
