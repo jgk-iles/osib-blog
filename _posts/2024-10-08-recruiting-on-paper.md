@@ -90,3 +90,5 @@ The player(s), the system or recruitment?
 That is for Liam Manning and his coaches and analysts to figure out.  Of course, the answer might be – it just needs time to gel!
 
 The next month or so after the international break will tell us much more.
+
+_Follow [@fevsfootball](https://www.x.com/fevsfootball) on X._
