@@ -8,7 +8,7 @@ tags: [recruitment]
 
 A very interesting and insightful listen to Sean Gilhespy (Bristol City Head of Recruitment) on 3 Peaps in a Podcast this week (7th Oct 2024).  I was going to write an article this break about the summer’s recruitment, but was finding it difficult to find the right angle and didn’t want to just write a player by player appraisal.
 
-![Three Peaps in a Podcast](_assets/3peaps.png)
+![Three Peaps in a Podcast](assets/img/posts/3peaps.png)
 
 On “paper” (hence the strap-line) I liked most of the summer recruitment, especially the earlier summer “ins”.  But the Twine saga that dragged on, coupled with the Earthy loan deal (and Stokes loan out) and McNally signing seemed to be a bit of a deviation, or at least excessive in terms of the original summer plan.  I’m sure there are reasons / explanations, but that’s not really my point, nor of this piece.
 
@@ -47,7 +47,7 @@ City continue to struggle to break down structured defences (not to be confused 
 
 So what manifests?  A lot of stick for Sinclair Armstrong it seems!
 
-![Sinclair Armstrong](_assets/armstrong.png)
+![Sinclair Armstrong](assets/img/posts/armstrong.png)
 
 Fair or unfair?
 
@@ -61,7 +61,7 @@ What about City’s other striker signing, Mayulu?
 
 Another “big” 9, but very different to Armstrong.  I watched a fair bit of video of him when Sky Austria first broke the news that City were signing him.  He’s not had as much opportunity as Armstrong, but it is clear he is different type of striker to Sinclair.
 
-![Fally Mayulu](_assets/fally.png)
+![Fally Mayulu](assets/img/posts/fally.png)
 
 He’s much happier getting ball into him from chest-down, likes to lay-off first-time off of his first-touch, or roll into space, but isn’t gonna “hide it” whilst he waits for the rest of the attack to join him.  A bit like Patrick Bamford in some respects.  Looks genuinely two-footed and gets into his stride pretty quickly.  He looks as if he needs players close to him to run onto his lay-offs, otherwise he can become isolated.  Noticeable in preseason that he looked much happier when Wells played 10 behind / alongside him, than Stokes.  Nahki makes very different runs to Stokes (that’s the experienced striker in him) and now that Twine is onboard and playing 10, rather than an inverted left-winger, different runs to Twine too.  Twine doesn’t make third-man runs like Wells does.
 
@@ -71,7 +71,7 @@ So, two strikers signed, both different, both fitting the recruitment brief in d
 
 Is the answer to play both of them?  Gary Owers, BBC Radio Bristol pundit and ex-City midfielder thinks so, or at least thinks is a good option to try.  It is certainly an option most fans would like to see also, not least with the monotony of like-for-like subs each game, ie striker off / striker on.  I see merits in Wells being the third in a “perm two from three” option.  His clever movement and understanding of how to play as a pair, together with his ability to finish might be the beneficiary of the other two’s hard work.  Wells would play the partner role with either very differently to how Armstrong and Mayulu would play together.
 
-![Nahki Wells](_assets/wells.png)
+![Nahki Wells](assets/img/posts/wells.png)
 
 The current “partner” option is Twine.  Playing a 10 like Twine, who wants to find pockets in between the opposition defence and midfield, rather than be a goal-threat getting on the end of Armstrong or Mayulu’s donkey-work, puts question marks on the system and the cohesiveness of certain player combinations within the overall team.  And therefore question marks on Recruitment too.  Especially when you’ve spent several million across the summer acquiring these players.
 
